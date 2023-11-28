@@ -24,5 +24,7 @@ Shows The probability the predicted Image is a car
 
 ### 2) Video OutPut
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/gJXiRvg2QhI" frameborder="0" allowfullscreen></iframe>
+https://github.com/BrianNderu/Track-Count-Vehicles-Using-Roboflow/assets/96378206/2ed0f60d-e5a0-4560-b033-19414b22debe
+
+
 
