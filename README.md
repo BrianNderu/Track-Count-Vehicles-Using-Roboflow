@@ -23,7 +23,6 @@ Shows The probability the predicted Image is a car
 <img src="Frame.png"/>
 
 ### 2) Video OutPut
-<video width="1280" height="720" controls>
-  <source src="Video 2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<iframe width="560" height="315" src="https://youtu.be/gJXiRvg2QhI" frameborder="0" allowfullscreen></iframe>
+
