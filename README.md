@@ -20,5 +20,4 @@ The Video was obtained from youtube [here](https://www.youtube.com/watch?v=Y1jTE
 ## Output
 <video width="1280" height="720" controls>
   <source src=""C:\Users\Brian\Downloads\output_video2.mp4"" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
