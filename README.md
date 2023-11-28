@@ -18,6 +18,6 @@ The Video was obtained from youtube [here](https://www.youtube.com/watch?v=Y1jTE
 
 
 ## Output
-<video width="1280" height="720" controls>
-  <source src="\Brian\Downloads\output_video2.mp4" type="video/mp4">
-</video>
+### 1.) In Frame 
+Frame.png
+<img src="Frame.png"/>
