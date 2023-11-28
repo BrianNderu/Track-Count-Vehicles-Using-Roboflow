@@ -24,5 +24,5 @@ Shows The probability the predicted Image is a car
 
 ### 2) Video OutPut
 
-<iframe width="560" height="315" src="https://youtu.be/gJXiRvg2QhI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/gJXiRvg2QhI" frameborder="0" allowfullscreen></iframe>
 
