@@ -23,6 +23,7 @@ Shows The probability the predicted Image is a car
 <img src="Frame.png"/>
 
 ### 2) Video OutPut
+output
 
 https://github.com/BrianNderu/Track-Count-Vehicles-Using-Roboflow/assets/96378206/2ed0f60d-e5a0-4560-b033-19414b22debe
 
